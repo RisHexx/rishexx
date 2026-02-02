@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I’m Rishabh Kanojiya 👋
 
-<!--
-**RisHexx/rishexx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-year college student  
+💻 Interested in coding, building things, and solving problems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+I enjoy working on personal projects, learning by building, and understanding how things work under the hood.  
+Currently exploring **DevOps** and **Machine Learning** while strengthening my development skills.
+
+---
+
+## 🚀 What I’m Working On
+- Personal coding projects  
+- Learning DevOps tools and workflows  
+- Exploring Machine Learning concepts and applications  
+
+---
+
+## 📫 Get in Touch
+- 📧 Email: **rishabhkanojiya9082@gmail.com**  
+- 🌐 Website: **rishabhkanojiya.in**  
+- 💼 LinkedIn: [linkedin.com/in/rishabhhkanojiya](https://www.linkedin.com/in/rishabhhkanojiya/)
+
+---
