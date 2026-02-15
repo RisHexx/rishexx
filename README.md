@@ -43,7 +43,7 @@ Currently exploring **DevOps** and **Machine Learning** while strengthening my d
 <tr>
 <td align="center"><b>Backend</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
 </td>
 </tr>
 
