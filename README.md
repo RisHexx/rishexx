@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Rishabh Kanojiya</h1>
 
 <p align="center">
-  🎓 Third-Year Computer Science Student <br>
-  💻 Interested in coding, building things, and solving problems.
+  Third-Year Computer Science Student <br>
+  Interested in coding, building things, and solving problems.
 </p>
 
 <p align="center">
