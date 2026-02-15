@@ -15,24 +15,17 @@
 
 ---
 
-## 👨‍💻 About Me
-
-I enjoy building real-world projects and learning by doing.  
-I like understanding how systems work **from frontend interfaces to backend logic and deployment**.
-
-Currently focused on:
-- 🚀 Strengthening **Full Stack Development**
-- ⚙️ Learning **DevOps tools & workflows**
-- 🤖 Exploring **Machine Learning concepts**
+### 👨‍💻 About Me 
+I enjoy working on personal projects, learning by building, and understanding how things work under the hood.
+Currently exploring **DevOps** and **Machine Learning** while strengthening my development skills.
 
 ---
 
 ## 🚀 What I'm Working On
 
-- Personal full-stack projects
-- Backend API development
-- Learning containerization & deployment
-- Exploring ML fundamentals and applications
+- Personal coding projects
+- Learning DevOps tools and workflows
+- Exploring Machine Learning concepts and applications
 
 ---
 
@@ -76,15 +69,6 @@ Currently focused on:
 </tr>
 
 </table>
-
----
-
-## 📈 Currently Learning
-
-- Docker & Deployment workflows
-- Cloud fundamentals (AWS)
-- Machine Learning basics
-- System design fundamentals
 
 ---
 
