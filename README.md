@@ -75,7 +75,8 @@ Currently exploring **DevOps** and **Machine Learning** while strengthening my d
 ## 📫 Get in Touch
 
 - 📧 **Email:** rishabhkanojiya9082@gmail.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/rishabhhkanojiya/
+- 💼 **LinkedIn:** https://www.linkedin.com/in/rishabhhkanojiya/  
+- 🌐 **Website:** https://rishabhkanojiya.in
 
 ---
 
