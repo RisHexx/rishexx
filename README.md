@@ -3,29 +3,31 @@
 <h1 align="center">Hi 👋, I'm Rishabh Kanojiya</h1>
 
 <p align="center">
-  Final-Year IT Student <br>
-  Interested in coding, building things, and solving problems.
+  Final-Year IT Student at Xavier Institute of Engineering, Mumbai <br>
+  Working on data science, applied AI and the infrastructure that ships it.
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Machine+Learning+Enthusiast;DevOps+Learner;Building+Projects+and+Learning+Daily&center=true&width=500&height=45">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+%26+Applied+AI;Building+with+LLMs+and+RAG;Deploying+ML+Models+as+APIs;DevOps+Practitioner&center=true&width=500&height=45">
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me 
-I enjoy working on personal projects, learning by building, and understanding how things work under the hood.
-Currently exploring **DevOps** and **Machine Learning** while strengthening my development skills.
+### 👨‍💻 About Me
+
+I'm an IT undergraduate interested in how data and machine learning turn into real, working products.
+My background is in full-stack development, and I now focus on **data science**, **applied AI** and **DevOps**: building models, AI-powered tools and the pipelines that deploy them.
 
 ---
 
 ## 🚀 What I'm Working On
 
-- Personal coding projects
-- Learning DevOps tools and workflows
-- Exploring Machine Learning concepts and applications
+- Building AI applications with LLMs and retrieval-augmented generation (RAG)
+- Deploying and serving machine learning models as APIs
+- Strengthening my DevOps workflow with Docker, CI/CD and cloud deployments
+- Exploring data science concepts and applying them through hands-on projects
 
 ---
 
@@ -34,37 +36,52 @@ Currently exploring **DevOps** and **Machine Learning** while strengthening my d
 <table align="center">
 
 <tr>
-<td align="center"><b>Frontend</b></td>
+<td align="center"><b>Languages</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js" />
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>AI & ML</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=sklearn" />
+&nbsp; LLMs · RAG · Embeddings · Whisper
 </td>
 </tr>
 
 <tr>
 <td align="center"><b>Backend</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
 </td>
 </tr>
 
 <tr>
 <td align="center"><b>Databases</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,supabase" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
 </td>
 </tr>
 
 <tr>
 <td align="center"><b>DevOps & Cloud</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx" />
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,githubactions,nginx" />
 </td>
 </tr>
 
 <tr>
-<td align="center"><b>Programming</b></td>
+<td align="center"><b>Frontend</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts" />
+<img src="https://skillicons.dev/icons?i=react,tailwind" />
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>Tools</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,postman" />
 </td>
 </tr>
 
@@ -74,8 +91,8 @@ Currently exploring **DevOps** and **Machine Learning** while strengthening my d
 
 ## 📫 Get in Touch
 
-- 📧 **Email:** rishabhkanojiya9082@gmail.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/rishabhhkanojiya/  
+- 📧 **Email:** rishabhkanojiya9082@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/rishabhhkanojiya/
 - 🌐 **Website:** https://rishabhkanojiya.in
 
 ---
